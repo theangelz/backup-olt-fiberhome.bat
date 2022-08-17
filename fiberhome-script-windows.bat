@@ -30,7 +30,7 @@ set "_cmd_=telnet.exe 0.0.0.0.0 22223"
      echo/ Wscript.Sleep 200
      echo/ WshShell.SendKeys "({ENTER})"
      echo/ Wscript.Sleep 200
-     echo/ WshShell.SendKeys "flexfibra"
+     echo/ WshShell.SendKeys "SENHAENABLE"
      echo/ Wscript.Sleep 200
      echo/ WshShell.SendKeys "({ENTER})"
      echo/ Wscript.Sleep 200
